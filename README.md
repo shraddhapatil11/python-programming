@@ -41,7 +41,6 @@ python-programming/
 
 Python 3
 
-⭐ This repository documents my learning journey and continuous practice in Python.
 ---
 
 ⭐ This repository documents my learning journey and continuous practice in Python.
